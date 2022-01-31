@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(rgb(190, 192, 202), green, blue);
+    font-family: monospace;
+    text-align: center;
+    margin: 250px;
+}
+
+h1 {
+    color: rgb(78, 82, 114);
+    font-family: 'IM Fell DW Pica', serif;
+}
+
+h2 {
+    color:rgb(66, 69, 88)
+    font-family: 'IM Fell DW Pica', serif;
+}
+
+
+h3 {
+    color: rgb(66, 69, 88)
+    font-family: 'IM Fell DW Pica', serif;
+}
+
+
+img:hover {
+    transform: scale(1.05);
+}
+
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    transform: scale(1.1);
+}
+
+.center {
+    text-align: center;
+    list-style-position: inside;
+}
