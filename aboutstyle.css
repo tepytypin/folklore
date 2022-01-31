@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(rgb(190, 192, 202), green, blue);
+    font-family: monospace;
+    text-align: center;
+    margin: 250px;
+}
+
+h1 {
+    color: rgb(78, 82, 114);
+    font-family: 'IM Fell DW Pica', serif;
+}
+
+img:hover {
+    transform: scale(1.05);
+}
+
+div {
+    padding: 20px 20px 20px 20px;
+}
